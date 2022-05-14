@@ -1,0 +1,7 @@
+C:\Users\Redteam\Desktop\AskNicely\AskNicely\bin\x64\Release\AskNicely.exe.config
+C:\Users\Redteam\Desktop\AskNicely\AskNicely\bin\x64\Release\AskNicely.exe
+C:\Users\Redteam\Desktop\AskNicely\AskNicely\bin\x64\Release\AskNicely.pdb
+C:\Users\Redteam\Desktop\AskNicely\AskNicely\obj\x64\Release\AskNicely.csproj.AssemblyReference.cache
+C:\Users\Redteam\Desktop\AskNicely\AskNicely\obj\x64\Release\AskNicely.csproj.CoreCompileInputs.cache
+C:\Users\Redteam\Desktop\AskNicely\AskNicely\obj\x64\Release\AskNicely.exe
+C:\Users\Redteam\Desktop\AskNicely\AskNicely\obj\x64\Release\AskNicely.pdb
