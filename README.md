@@ -28,8 +28,6 @@ Customized prompt with creds verification: AskNicely.exe /verify /title:"Custom 
 
 
 ### Screenshot:
-Windows Credential prompt:
 ![Screenshot](https://github.com/pietermiske/AskNicely/blob/main/Screenshots/AskNicely_prompt.png?raw=true)
 
-Returned credentials:
 ![Screenshot](https://github.com/pietermiske/AskNicely/blob/main/Screenshots/AskNicely_returned_creds.png?raw=true)
