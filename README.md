@@ -1,5 +1,5 @@
 # AskNicely
-This C# based executable starts a customizable Windows authentication prompt and can optionally verify if the submitted credentials are valid in the context of the domain or local system. 
+This C# based executable starts a customizable Windows authentication prompt, returns any submitted user/password combination in clear text, and can optionally verify if the submitted credentials are valid in the context of the domain or local system. 
 
 
 ### Usage:
